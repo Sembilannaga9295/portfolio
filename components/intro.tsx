@@ -68,8 +68,6 @@ export default function Intro() {
         <span className="italic">sites & apps</span> and I'm currently focusing on{" "}
         <span className="underline">React (Next.js)</span>.
       </motion.h1>
-
-
       <motion.div
         className="flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium"
         initial={{ opacity: 0, y: 100 }}
